@@ -1,6 +1,7 @@
 # mreq Simple curl alternative for testing apis
 
-```Usage of mreq:
+```
+Usage of mreq:
   -b string
         Request Body (default "text/plain")
   -c string
